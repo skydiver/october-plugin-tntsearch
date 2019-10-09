@@ -1,0 +1,12 @@
+{
+    "name": "october/oc-martin-tntsearch",
+    "type": "october-plugin",
+    "description": "TNTSearch",
+    "keywords": ["october", "cms", "demo", "plugin"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0",
+        "teamtnt/laravel-scout-tntsearch-driver": "^7.2"
+    }
+}
