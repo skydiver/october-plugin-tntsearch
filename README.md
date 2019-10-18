@@ -3,7 +3,9 @@
 
 
 ## Installation
-1. clone to `martin/tntsearch`
+1. clone to `plugins/martin/tntsearch`
+2. cd `plugins/martin/tntsearch`
+3. `composer install`
 
 
 ## Usage
